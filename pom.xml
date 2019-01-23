@@ -63,10 +63,6 @@
     </repositories>
 
     <distributionManagement>
-        #<repository>
-            #<id>myMavenRepo.write</id>
-            #<url>https://mymavenrepo.com/repo/9Q8JoRpymi4UGK8HzbVq/</url>
-        #</repository>
          <repository>              
             <id>central</id>
             <name>Central</name>
