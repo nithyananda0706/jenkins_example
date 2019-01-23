@@ -63,6 +63,7 @@
     </repositories>
 
     <distributionManagement>
+<<<<<<< HEAD
        <repository>             
            <id>central</id>
            <name>Central</name>
@@ -70,4 +71,17 @@
         </repository>
 
     </distributionManagement>
+=======
+        #<repository>
+            #<id>myMavenRepo.write</id>
+            #<url>https://mymavenrepo.com/repo/9Q8JoRpymi4UGK8HzbVq/</url>
+        #</repository>
+         <repository>              
+            <id>central</id>
+            <name>Central</name>
+            <url>http://repo1.maven.org/maven2</url>
+         </repository>    
+    </distributionManagement>
+
+>>>>>>> 26d7b7f670ffc6a8ce9bbb365d436a518fa039ef
 </project>
